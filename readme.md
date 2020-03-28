@@ -14,3 +14,5 @@
 ```` php artisan db:seed --class=ProductsSeeder ````
 
 ```` php artisan db:seed --class=ProductsCategorySeeder ````
+
+```` php artisan serve ````
